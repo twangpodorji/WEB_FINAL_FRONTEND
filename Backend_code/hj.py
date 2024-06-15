@@ -1,1 +1,1 @@
-hu
+print("hellow world")
